@@ -23,13 +23,7 @@ the results found within the data.
 3)	*Is there a relationship  between regional poverty rates and healthcare* 
     *access metrics, and how does this affect cancer outcomes?*
 
-# Datasets 
 
-The datasets that were used for this study are the following: 
-1	– 
-2	– 
-3	– 
-4	– 
 
 *NOTE: The datasets came in a variety of year ranges. To make the analysis* 
 *smoother, the year range for each dataset was pared down to the year range 2014 – 2019.* 
