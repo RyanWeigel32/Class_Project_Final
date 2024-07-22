@@ -116,6 +116,8 @@ Terminal or Git Bash
     *had suffixes added to differentiate each regional dataset from another.* 
 
 **Example:**
+
+
 ![alt text](<Images/pivot_table_data_example README.png>)
 
 ![alt text](<Images/pivot_table_example ReadME.png>)
@@ -124,7 +126,9 @@ Terminal or Git Bash
 
 **Examples:** 
 
+
 Summary Statistics Table 
+
 
 ![alt text](<Images/marriage_divorce_code_example ReadME.png>)
 
